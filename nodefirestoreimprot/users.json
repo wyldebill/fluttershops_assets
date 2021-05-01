@@ -258,8 +258,8 @@
         "id": "6",
         "name": "A Wreath of Franklin",
         "tagline": "Home decor",
-        "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
-		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+        "imageName": "gs://brgfirebase.appspot.com/images/wreathfranklinlogo.jpg",
+		"image1": "gs://brgfirebase.appspot.com/images/wreathfranklinstorefront.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.172253",
@@ -308,7 +308,7 @@
         "id": "7",
         "name": "Buffalo Rock Winery",
         "tagline": "Home decor",
-        "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+        "imageName": "gs://brgfirebase.appspot.com/images/buffalorockwinerylogo.jpg",
 		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
@@ -674,7 +674,7 @@
 	
 	
 		{
-        "id": "15",
+        "id": "14",
         "name": "Buffalo Nickel",
         "tagline": "Buffalo Nickel",
         "imageName": "gs://brgfirebase.appspot.com/images/buffalonickellogo.jpg",
@@ -724,7 +724,7 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "16",
+        "id": "15",
         "name": "Love Inc",
         "tagline": "Love Inc",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -774,7 +774,7 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "17",
+        "id": "16",
         "name": "Wise Penny",
         "tagline": "Wise Penny",
         "imageName": "gs://brgfirebase.appspot.com/images/wisepennylogo.png",
@@ -824,7 +824,7 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "18",
+        "id": "17",
         "name": "Second Hand Rose",
         "tagline": "Second Hand Rose",
         "imageName": "gs://brgfirebase.appspot.com/images/secondhandroselogo.png",
@@ -874,7 +874,7 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "19",
+        "id": "18",
         "name": "Knick Knackery",
         "tagline": "The Knick Knackery",
         "imageName": "gs://brgfirebase.appspot.com/images/nickknackerylogo.jpeg",
@@ -924,7 +924,7 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "20",
+        "id": "19",
         "name": "Behind the Picket Fence",
         "tagline": "Behind the Picket Fence",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -974,7 +974,7 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "21",
+        "id": "20",
         "name": "What's the Scoop?",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/whatsthescooplogo.jpg",
@@ -1024,7 +1024,7 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "22",
+        "id": "21",
         "name": "Buffalo Floral",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -1074,11 +1074,11 @@
         "sundayCloseMinute" : 0
     },
 		{
-        "id": "23",
+        "id": "22",
         "name": "Artistic Me",
         "tagline": "--",
-        "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
-		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+        "imageName": "gs://brgfirebase.appspot.com/images/artisticmelogo.gif",
+		"image1": "gs://brgfirebase.appspot.com/images/artisticmestorefront.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.177717950976366",
@@ -1124,11 +1124,11 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "24",
+        "id": "23",
         "name": "Evelyn's Wine Bar",
         "tagline": "--",
-        "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
-		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+        "imageName": "gs://brgfirebase.appspot.com/images/evelynsmuffyslogo.jpg",
+		"image1": "gs://brgfirebase.appspot.com/images/evelynsstorefront.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.17266774486037",
@@ -1174,11 +1174,11 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "25",
+        "id": "24",
         "name": "Fire Within Yoga",
         "tagline": "--",
-        "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
-		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+        "imageName": "gs://brgfirebase.appspot.com/images/firewithinlogo.jpg",
+		"image1": "gs://brgfirebase.appspot.com/images/firewithinstorefront.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.1722226671191",
@@ -1224,7 +1224,7 @@
         "sundayCloseMinute" : 30
     },
 	{
-        "id": "26",
+        "id": "25",
         "name": "Emily Theisen Photography",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -1274,7 +1274,7 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "27",
+        "id": "26",
         "name": "Hayes Public House",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -1324,11 +1324,11 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "28",
+        "id": "27",
         "name": "This and That",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
-		"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+		"image1": "gs://brgfirebase.appspot.com/images/thisnthatstorefront.jpg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.17791570595816",
@@ -1374,7 +1374,7 @@
         "sundayCloseMinute" : 0
     },
 	{
-        "id": "29",
+        "id": "28",
         "name": "The Modern Farmstead",
         "tagline": "--",
         "imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
@@ -1425,10 +1425,10 @@
     },
 
 	{
-	"id": "30",
+	"id": "29",
 	"name": "She",
 	"tagline": "--",
-	"imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+	"imageName": "gs://brgfirebase.appspot.com/images/shelogo.jpg",
 	"image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
 	"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
 	"distance": "145ft",
@@ -1475,7 +1475,7 @@
 	"sundayCloseMinute" : 0
 	},
 	{
-	"id": "31",
+	"id": "30",
 	"name": "Ritzy Replay",
 	"tagline": "--",
 	"imageName": "gs://brgfirebase.appspot.com/images/welcome.jpg",

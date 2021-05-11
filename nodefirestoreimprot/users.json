@@ -31,17 +31,17 @@
         "wednesdayCloseHour": 17,
         "wednesdayCloseMinute" : 0,
 
-        "thursdayHour": 11,
+        "thursdayHour": 10,
         "thursdayMinute" : 0,
         "thursdayCloseHour": 17,
         "thursdayCloseMinute" : 0,
 
-        "fridayHour": 11,
+        "fridayHour": 10,
         "fridayMinute" : 0,
         "fridayCloseHour": 17,
         "fridayCloseMinute" : 0,
 
-        "saturdayHour": 11,
+        "saturdayHour": 10,
         "saturdayMinute" : 0,
         "saturdayCloseHour": 17,
         "saturdayCloseMinute" : 0,
@@ -93,7 +93,7 @@
 
         "saturdayHour": 9,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 17,
+        "saturdayCloseHour": 16,
         "saturdayCloseMinute" : 0,
 
 
@@ -117,17 +117,17 @@
         "website": "--",
         "occasionalShop": "false",  
         "phone": "999-999-9999",
-        "mondayHour": 10,
+        "mondayHour": 0,
         "mondayMinute" : 0,
         "mondayCloseHour": 18,
         "mondayCloseMinute" : 0,
 
-        "tuesdayHour": 10,
+        "tuesdayHour": 0,
         "tuesdayMinute" : 0,
         "tuesdayCloseHour": 18,
         "tuesdayCloseMinute" : 0,
       
-        "wednesdayHour": 10,
+        "wednesdayHour": 0,
         "wednesdayMinute" : 0,
         "wednesdayCloseHour": 18,
         "wednesdayCloseMinute" : 0,
@@ -139,12 +139,12 @@
 
         "fridayHour": 10,
         "fridayMinute" : 0,
-        "fridayCloseHour": 18,
+        "fridayCloseHour": 17,
         "fridayCloseMinute" : 0,
 
         "saturdayHour": 10,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 18,
+        "saturdayCloseHour": 17,
         "saturdayCloseMinute" : 0,
 
 
@@ -216,7 +216,7 @@
         "longitude": "-93.875905",
         "description": "Welcome to JTB Home Furniture. Description here.",
         "website": "www.jtbhomefurniture.com",
-        "occasionalShop": "false",
+        "occasionalShop": "true",
         "phone": "833-234-4100",
         "mondayHour": 0,
         "mondayMinute" : 0,
@@ -343,9 +343,9 @@
         "fridayCloseHour": 0,
         "fridayCloseMinute" : 0,
 
-        "saturdayHour": 9,
+        "saturdayHour": 12,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 17,
+        "saturdayCloseHour": 16,
         "saturdayCloseMinute" : 0,
 
 
@@ -420,40 +420,40 @@
         "website": "www.buffalobooks.com",
         "occasionalShop": "false",  
         "phone": "999-999-9999",
-        "mondayHour": 0,
+        "mondayHour": 7,
         "mondayMinute" : 0,
-        "mondayCloseHour": 17,
+        "mondayCloseHour": 18,
         "mondayCloseMinute" : 0,
 
-        "tuesdayHour": 0,
+        "tuesdayHour": 7,
         "tuesdayMinute" : 0,
-        "tuesdayCloseHour": 17,
+        "tuesdayCloseHour": 18,
         "tuesdayCloseMinute" : 0,
       
-        "wednesdayHour": 0,
+        "wednesdayHour": 7,
         "wednesdayMinute" : 0,
-        "wednesdayCloseHour": 17,
+        "wednesdayCloseHour": 18,
         "wednesdayCloseMinute" : 0,
 
-        "thursdayHour": 9,
+        "thursdayHour": 7,
         "thursdayMinute" : 0,
-        "thursdayCloseHour": 17,
+        "thursdayCloseHour": 18,
         "thursdayCloseMinute" : 0,
 
-        "fridayHour": 9,
+        "fridayHour": 7,
         "fridayMinute" : 0,
-        "fridayCloseHour": 17,
+        "fridayCloseHour": 18,
         "fridayCloseMinute" : 0,
 
-        "saturdayHour": 9,
+        "saturdayHour": 8,
         "saturdayMinute" : 0,
         "saturdayCloseHour": 17,
         "saturdayCloseMinute" : 0,
 
 
-        "sundayHour": 0,
+        "sundayHour": 9,
         "sundayMinute" : 0,
-        "sundayCloseHour": 16,
+        "sundayCloseHour": 14,
         "sundayCloseMinute" : 0
 
 
@@ -470,7 +470,7 @@
         "longitude": "-93.87468507251775",
         "description": "Welcome to Harlows House",
         "website": "www.harlows.com",
-        "occasionalShop": "false",  
+        "occasionalShop": "true",  
         "phone": "999-999-9999",
         "mondayHour": 0,
         "mondayMinute" : 0,
@@ -524,34 +524,34 @@
         "website": "www.setterberg.com",
         "occasionalShop": "false",  
         "phone": "999-999-9999",
-        "mondayHour": 0,
+        "mondayHour": 9,
         "mondayMinute" : 0,
         "mondayCloseHour": 17,
-        "mondayCloseMinute" : 0,
+        "mondayCloseMinute" : 30,
 
-        "tuesdayHour": 0,
+        "tuesdayHour": 9,
         "tuesdayMinute" : 0,
         "tuesdayCloseHour": 17,
-        "tuesdayCloseMinute" : 0,
+        "tuesdayCloseMinute" : 30,
       
-        "wednesdayHour": 0,
+        "wednesdayHour": 9,
         "wednesdayMinute" : 0,
         "wednesdayCloseHour": 17,
-        "wednesdayCloseMinute" : 0,
+        "wednesdayCloseMinute" : 30,
 
         "thursdayHour": 9,
         "thursdayMinute" : 0,
         "thursdayCloseHour": 17,
-        "thursdayCloseMinute" : 0,
+        "thursdayCloseMinute" : 30,
 
         "fridayHour": 9,
         "fridayMinute" : 0,
         "fridayCloseHour": 17,
-        "fridayCloseMinute" : 0,
+        "fridayCloseMinute" : 30,
 
         "saturdayHour": 9,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 17,
+        "saturdayCloseHour": 15,
         "saturdayCloseMinute" : 0,
 
 
@@ -664,16 +664,7 @@
         "sundayCloseMinute" : 0
     },
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		{
+	{
         "id": "14",
         "name": "Buffalo Nickel",
         "tagline": "Buffalo Nickel",
@@ -718,12 +709,12 @@
         "saturdayCloseMinute" : 0,
 
 
-        "sundayHour": 0,
+        "sundayHour": 10,
         "sundayMinute" : 0,
         "sundayCloseHour": 18,
         "sundayCloseMinute" : 0
     },
-		{
+	{
         "id": "15",
         "name": "Love Inc",
         "tagline": "Love Inc",
@@ -809,12 +800,12 @@
 
         "fridayHour": 10,
         "fridayMinute" : 0,
-        "fridayCloseHour": 18,
+        "fridayCloseHour": 16,
         "fridayCloseMinute" : 0,
 
         "saturdayHour": 10,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 18,
+        "saturdayCloseHour": 16,
         "saturdayCloseMinute" : 0,
 
 
@@ -835,7 +826,7 @@
         "longitude": "-93.8727930737989",
         "description": "Second Hand Rose",
         "website": "2hrose.com",
-        "occasionalShop": "false",  
+        "occasionalShop": "true",  
         "phone": "999-999-9999",
         "mondayHour": 0,
         "mondayMinute" : 0,
@@ -875,46 +866,46 @@
     },
 		{
         "id": "18",
-        "name": "Knick Knackery",
-        "tagline": "The Knick Knackery",
+        "name": "Knic-Knackery",
+        "tagline": "Knic-Knackery",
         "imageName": "gs://brgfirebase.appspot.com/images/nickknackerylogo.jpeg",
 		"image1": "gs://brgfirebase.appspot.com/images/nickknackerystorefront.jpeg",
 		"image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
         "distance": "145ft",
         "latitude": "45.17348747198139",
         "longitude": "-93.87608154796305",
-        "description": "The Knick Knackery",
+        "description": "Knic Knackery",
         "website": "--",
         "occasionalShop": "false",  
         "phone": "999-999-9999",
-        "mondayHour": 10,
+        "mondayHour": 0,
         "mondayMinute" : 0,
         "mondayCloseHour": 18,
         "mondayCloseMinute" : 0,
 
-        "tuesdayHour": 10,
+        "tuesdayHour": 0,
         "tuesdayMinute" : 0,
         "tuesdayCloseHour": 18,
         "tuesdayCloseMinute" : 0,
       
-        "wednesdayHour": 10,
+        "wednesdayHour": 0,
         "wednesdayMinute" : 0,
         "wednesdayCloseHour": 18,
         "wednesdayCloseMinute" : 0,
 
         "thursdayHour": 10,
         "thursdayMinute" : 0,
-        "thursdayCloseHour": 18,
+        "thursdayCloseHour": 17,
         "thursdayCloseMinute" : 0,
 
         "fridayHour": 10,
         "fridayMinute" : 0,
-        "fridayCloseHour": 18,
+        "fridayCloseHour": 17,
         "fridayCloseMinute" : 0,
 
         "saturdayHour": 10,
         "saturdayMinute" : 0,
-        "saturdayCloseHour": 18,
+        "saturdayCloseHour": 16,
         "saturdayCloseMinute" : 0,
 
 
@@ -1335,7 +1326,7 @@
         "longitude": "-93.87289082049094",
         "description": "--",
         "website": "--",
-        "occasionalShop": "false",  
+        "occasionalShop": "true",  
         "phone": "999-999-9999",
         "mondayHour": 0,
         "mondayMinute" : 0,
@@ -1387,17 +1378,17 @@
         "website": "--",
         "occasionalShop": "false",  
         "phone": "999-999-9999",
-        "mondayHour": 9,
+        "mondayHour": 0,
         "mondayMinute" : 0,
         "mondayCloseHour": 17,
         "mondayCloseMinute" : 0,
 
-        "tuesdayHour": 9,
+        "tuesdayHour": 0,
         "tuesdayMinute" : 0,
         "tuesdayCloseHour": 17,
         "tuesdayCloseMinute" : 0,
       
-        "wednesdayHour": 9,
+        "wednesdayHour": 0,
         "wednesdayMinute" : 0,
         "wednesdayCloseHour": 17,
         "wednesdayCloseMinute" : 0,
@@ -1420,7 +1411,7 @@
 
         "sundayHour": 9,
         "sundayMinute" : 0,
-        "sundayCloseHour": 17,
+        "sundayCloseHour": 16,
         "sundayCloseMinute" : 0
     },
 

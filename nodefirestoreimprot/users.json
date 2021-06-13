@@ -173,8 +173,8 @@
   },
   {
     "id": "5",
-    "name": "JTB Home Furniture and Decor",
-    "tagline": "tagline here for JTB Home Furniture and Decor",
+    "name": "JTB Home Furniture + Decor",
+    "tagline": "tagline here for JTB Home Furniture + Decor",
     "imageName": "gs://brgfirebase.appspot.com/images/jtblogo.jpg",
     "image1": "gs://brgfirebase.appspot.com/images/jtbstorefront.jpg",
     "image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",

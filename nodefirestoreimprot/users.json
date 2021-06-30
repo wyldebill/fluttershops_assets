@@ -262,7 +262,7 @@
     "name": "Buffalo Rock Winery",
     "tagline": "Home decor",
     "imageName": "gs://brgfirebase.appspot.com/images/buffalorockwinerylogo.jpg",
-    "image1": "gs://brgfirebase.appspot.com/images/welcome.jpg",
+    "image1": "gs://brgfirebase.appspot.com/images/buffalorockwinerystorefront.jpg",
     "image2": "gs://brgfirebase.appspot.com/images/welcome.jpg",
     "distance": "145ft",
     "latitude": "45.117736",

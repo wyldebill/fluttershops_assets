@@ -1,6 +1,7 @@
 https://www.youtube.com/watch?v=gPzs6t3tQak   firebase import and export 
 https://www.npmjs.com/package/node-firestore-import-export
 
+I used the users.json file for data, but it should be stores.json obviously.
 
 
 C:\src\nodestuff\nodefirestoreimprot>
